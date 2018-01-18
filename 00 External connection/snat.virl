@@ -5,7 +5,7 @@
     </extensions>
     <node name="iosvl2-1" type="SIMPLE" subtype="IOSvL2" location="395,376">
         <extensions>
-            <entry key="config" type="string">! IOSvL2 Config generated on 2018-01-07 05:06
+            <entry key="config" type="string">! IOSvL2 Config generated on 2018-01-18 09:50
 ! by autonetkit_0.23.5
 !
 version 15.2
